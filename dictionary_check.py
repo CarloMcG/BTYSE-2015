@@ -12,5 +12,5 @@ def check():
 found = check()
 if found:
     print ("This password has been found in the Oxford English Dictionary")
-    else:
-        print ("This password has not been found in the Oxford English Dictionary")
+else:
+    print ("This password has not been found in the Oxford English Dictionary")

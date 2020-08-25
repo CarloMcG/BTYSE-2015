@@ -12,5 +12,5 @@ def check():
 found = check()
 if found:
     print("This password is common")
-    else:
-        print("This password is uncommon")
+else:
+    print("This password is uncommon")
